@@ -1,0 +1,1 @@
+# Automated-Lumbar-Spine-Degeneration-Detection-Using-3D-DICOM-Modeling-with-ViT-and-EfficientNet
